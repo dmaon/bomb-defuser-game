@@ -9,7 +9,7 @@ This is my first game and first time doing it with dome engine and wren language
 - Arows + Enter
 
 # How to run
-- Use dome.exe for windows
-- Use dome file with ./dome game.egg command for linux 
+- Use game.exe for windows
+- Use ./game in your terminal
 
 

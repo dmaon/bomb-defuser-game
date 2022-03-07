@@ -6,11 +6,10 @@ This is my first game and first time doing it with dome engine and wren language
 - Resources by https://phillipp.itch.io/nokiajamresources[Nokia Jam Resources].
 
 # How to play
-- Arows + enter
+- Arows + Enter
 
 # How to run
-- Use game.exe for windows
-- Use dome.html and game.egg on host for web
+- Use dome.exe for windows
 - Use dome file with ./dome game.egg command for linux 
 
 
